@@ -1,0 +1,5 @@
+{
+  "name": "Dannyvyd Logo Generator",
+  "description": "An application to generate a high-status, trendy fashion logo for the brand 'Dannyvyd' using the Gemini API.",
+  "requestFramePermissions": []
+}
